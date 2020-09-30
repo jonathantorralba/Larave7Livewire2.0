@@ -28,6 +28,7 @@ git push -> PC to Github
 git push --tags
 git push --force
 
-git branch
-git merge xxxx ->desde rama master
+git branch -> ver ramas
+git merge "rama" ->desde rama master
+git checkout "rama" cambiar de rama
 
