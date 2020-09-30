@@ -28,3 +28,6 @@ git push -> PC to Github
 git push --tags
 git push --force
 
+git branch
+git merge xxxx ->desde rama master
+
